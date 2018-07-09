@@ -1,6 +1,6 @@
 # MyResidentEvil
 
-![游戏截图](/youngyawei/MyResidentEvil/tree/master/ScreenShot/start.png)
+![游戏截图](/ScreenShot/start.png "游戏截图")
 
 在自学了 Unity3D 之后，为了检验下自己学习的情况，编写了这个游戏。
 
@@ -10,6 +10,16 @@
 
 游戏所用到的素材大部分都来自于 Unity 官方的 AssetsStore，人物模型和动画来自 [https://www.mixamo.com](https://www.mixamo.com)  这个网站，玩家的人物模型是使用 Adobe Fuse CC 制作的。背景音乐使用的是生化危机2的原生音乐。
 
-链接: [百度网盘]https://pan.baidu.com/s/1M7tmIsyVqNlWdILvzhnoUQ 密码: 8xc8
+链接: [百度网盘](https://pan.baidu.com/s/1M7tmIsyVqNlWdILvzhnoUQ) 密码: 8xc8
 
+![游戏截图](/ScreenShot/FrontHall.png "游戏截图")
 
+![游戏截图](/ScreenShot/PowerSource.png "游戏截图")
+
+![游戏截图](/ScreenShot/FirstHall.png "游戏截图")
+
+![游戏截图](/ScreenShot/FrontHall_L.png "游戏截图")
+
+![游戏截图](/ScreenShot/BattleRoom.png "游戏截图")
+
+![游戏截图](/ScreenShot/final.png "游戏截图")
