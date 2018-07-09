@@ -16,7 +16,7 @@
 
 ![游戏截图](/ScreenShot/PowerSource.png "游戏截图")
 
-![游戏截图](/ScreenShot/FirstHall.png "游戏截图")
+![游戏截图](/ScreenShot/FirstFloor.png "游戏截图")
 
 ![游戏截图](/ScreenShot/FrontHall_L.png "游戏截图")
 
