@@ -10,7 +10,7 @@
 
 游戏所用到的素材大部分都来自于 Unity 官方的 AssetsStore，人物模型和动画来自 [https://www.mixamo.com](https://www.mixamo.com)  这个网站，玩家的人物模型是使用 Adobe Fuse CC 制作的。背景音乐使用的是生化危机2的原生音乐。
 
-链接: [百度网盘](https://pan.baidu.com/s/1M7tmIsyVqNlWdILvzhnoUQ) 密码: 8xc8
+游戏 apk 安装包: [百度网盘](https://pan.baidu.com/s/1M7tmIsyVqNlWdILvzhnoUQ) 密码: 8xc8
 
 ![游戏截图](/ScreenShot/FrontHall.png "游戏截图")
 
